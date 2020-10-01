@@ -1,0 +1,24 @@
+--> In python
+print("Hello World")
+
+-->In c++
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<"Hello World";
+}
+
+--> In java
+package main;
+
+public class Mand {
+
+	public static void main(String[] args) {
+		
+		
+		System.out.println("Hello World");
+
+	}
+
+}
